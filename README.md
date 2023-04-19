@@ -1,6 +1,8 @@
 # IMC-home-assignment
 
 Hi there here is my updated submition for IMC trading home assignment
+Changes are appreciate.
+
 Here is the feedback : 
 
 ConcurrentQueue
